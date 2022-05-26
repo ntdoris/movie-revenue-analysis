@@ -1,4 +1,4 @@
-# Movie Data Analysis
+# Making Movie Magic
 - Student Name: Natalya Doris
 - Student Pace: Flex / 40 weeks
 - Scheduled Project Review Date / Time: Thursday, May 26 at 11 a.m. EST
