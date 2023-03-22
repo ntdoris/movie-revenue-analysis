@@ -1,8 +1,4 @@
 # Making Movie Magic
-- Student Name: Natalya Doris
-- Student Pace: Flex / 40 weeks
-- Scheduled Project Review Date / Time: Thursday, May 26 at 11 a.m. EST
-- Instructor Name: Abhineet Kulkarni
 - Blog Post [URL](https://medium.com/@ntdoris/adding-a-single-regression-line-to-a-scatterplot-with-multiple-categories-1eb804e27ce0)
 
 ## Overview
